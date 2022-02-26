@@ -1,0 +1,45 @@
+[
+    {   "imagen": "imagenes/puente.jpg",
+        "puntoTuristico": "Puente de la mujer", 
+        "lugar":"Puerto Madero",
+        "costo":"Sin costo"
+    },
+    {   "imagen": "imagenes/malba1.jpg", 
+        "puntoTuristico": "Malba Museo", 
+        "lugar":"Palermo",
+        "costo":"Sin costo"
+    },
+    {   "imagen": "imagenes/facderecho.jpg",
+        "puntoTuristico": "Facultad de Derecho", 
+        "lugar":"Recolta",
+        "costo":"Sin costo"
+    },
+    {   "imagen": "imagenes/citytour.jpg",
+        "puntoTuristico": "City Tour", 
+        "lugar":"Microcentro",
+        "costo":"Con costo"
+    },
+    {   "imagen": "imagenes/bombonera.jpg",
+        "puntoTuristico": "Bombonera", 
+        "lugar":"La Boca",
+        "costo":"Con costo"
+    }
+    ,
+    {   "imagen": "imagenes/cementerio.jpg",
+        "puntoTuristico": "Cementerio de la Recoleta", 
+        "lugar":"Recoleta",
+        "costo":"sin costo"
+    }
+    ,
+    {   "imagen": "imagenes/gastronomia.jpg",
+        "puntoTuristico": "Experiencia Gastronomica", 
+        "lugar":"Palermo Soho",
+        "costo":"Con costo"
+    }
+    ,
+    {   "imagen": "imagenes/tango.jpg",
+        "puntoTuristico": "Cena y Show de Tango", 
+        "lugar":"La Boca",
+        "costo":"Con costo"
+    }
+]
